@@ -1,3 +1,5 @@
+[UNFINISHED] 
+-
 - 👋 Hi, I’m @JohnHillsCodeProjects
 - 👀 I’m interested in programming and software engineering
 - 🌱 I’m currently learning 
