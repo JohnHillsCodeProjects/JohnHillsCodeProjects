@@ -1,5 +1,3 @@
-[UNFINISHED] 
--
 - 👋 Hi, I’m John Hills or @JohnHillsCodeProjects on GitHub
 - 👀 I’m interested in programming and software engineering
 - 🌱 I’m currently learning Rust and how to make a game engine in Rust
