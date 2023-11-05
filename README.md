@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Hills or @JohnHillsCodeProjects on GitHub
 - 👀 I’m interested in programming and software engineering
-- 🌱 I’m currently learning Rust and how to make a game engine in Rust
+- 🌱 I’m currently learning Rust. Any projects I complete in Rust will be added here. 
 - 📫 You can reach me through my gmail at johnhillsoffice@gmail.com
 
 <!---
